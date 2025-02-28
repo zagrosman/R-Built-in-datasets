@@ -14,3 +14,7 @@ library(clipr)
 dat <- mtcars[1:5, c(3:4, 8:11)]  
 dat  
 write_clip(dat)
+
+
+For more detail, you can see the following video:
+
